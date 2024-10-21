@@ -19,4 +19,4 @@
 ---
 > [Project_PF](https://github.com/Yugi62/Project_PF?tab=readme-ov-file)
 
-멀티플레이 탑뷰 슈팅 게임입니다
+개인으로 제작한 멀티플레이 탑뷰 슈팅 게임입니다
