@@ -20,7 +20,7 @@
 ---
 > [SimpleLogin](https://github.com/Yugi62/SimpleLogin)
 
-TLS 통신 및 로그인을 구현한 간단한 서버입니다
+TLS 통신 및 로그인을 구현한 간단한 Boost 서버입니다
 
 > [Project_PF](https://github.com/Yugi62/Project_PF?tab=readme-ov-file)
 
